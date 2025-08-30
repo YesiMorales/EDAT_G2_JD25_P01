@@ -16,5 +16,10 @@ namespace Dato.Aleatorio
         {
             InitializeComponent();
         }
+
+        private void frmDatosAleatorios_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
